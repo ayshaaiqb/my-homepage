@@ -3,7 +3,7 @@ import React from 'react';
 function Footer() {
   return (
     <footer className="footer">
-      <p>© 2025 Aysha Aiqb • Built with React & GitHub Pages</p>
+      <p>© {new Date().getFullYear()} Aysha Iqb. All rights reserved.</p>
     </footer>
   );
 }

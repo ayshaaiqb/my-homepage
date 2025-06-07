@@ -80,3 +80,23 @@
     text-decoration: underline;
   }
   
+
+  .header {
+    background-color: #111;
+    color: white;
+    padding: 1rem 2rem;
+    text-align: center;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+  }
+  
+  .footer {
+    background-color: #111;
+    color: white;
+    padding: 1rem 2rem;
+    text-align: center;
+    margin-top: 3rem;
+    font-size: 0.9rem;
+    opacity: 0.8;
+  }
+  
